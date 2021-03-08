@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-01-07T17:13:57.729+01:00</Created>
+        <LastChange>2020-01-17T12:54:34.195+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="304468" pageId="12091452" pageNr="66" tsid="22496928" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=FESASPPAAGXWCWAUZDAWXDHH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GVTNZKZFSOKXGYNBXYYSAXUX" imageId="8434486"/>
+    </Metadata>
+    <Page imageFilename="1887_bovet_bpt6k6325943w_gt_0066.jpg" imageWidth="3614" imageHeight="4649">
+        <PrintSpace>
+            <Coords points="0,0 3597,0 3597,4649 0,4649"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1578413871670" caption="Regions reading order">
+                <RegionRefIndexed index="1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 3597,0 3597,4611 0,4611"/>
+        </GraphicRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:1;}">
+            <Coords points="75,51 288,51 288,61 75,61"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:2;}">
+            <Coords points="2174,15 3131,15 3131,46 2174,46"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:3;}">
+            <Coords points="327,57 460,57 460,62 327,62"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:4;}">
+            <Coords points="1,65 614,65 614,75 1,75"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:5;}">
+            <Coords points="3228,24 3445,24 3445,41 3228,41"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:6;}">
+            <Coords points="2239,35 3419,35 3419,67 2239,67"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

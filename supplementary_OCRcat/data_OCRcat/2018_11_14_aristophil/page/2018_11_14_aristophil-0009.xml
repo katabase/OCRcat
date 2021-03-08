@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-01-06T14:36:23.715+01:00</Created>
+        <LastChange>2020-03-28T23:50:32.453+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="304006" pageId="12076768" pageNr="9" tsid="26607548" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=PECKPMIICBEGFLJVMVYKXKMF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RLRZWOVNDWPKUVPVADVUHEWO" imageId="8420923"/>
+    </Metadata>
+    <Page imageFilename="2018_11_14_aristophil-0009.jpg" imageWidth="2480" imageHeight="3188">
+        <PrintSpace>
+            <Coords points="0,0 2480,0 2480,3188 0,3188"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585435802408" caption="Regions reading order">
+                <RegionRefIndexed index="1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_14" custom="readingOrder {index:0;}">
+            <Coords points="2307,2949 2480,2949 2480,3122 2307,3122"/>
+        </GraphicRegion>
+        <ImageRegion id="Image_1585435828340_7770" custom="readingOrder {index:1;}">
+            <Coords points="0,-2 2481,-2 2481,3191 0,3191"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>2018_11_14_aristophil-0010.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-10-31T11:50:53.635+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="3188" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="2480">
+<TopMargin HEIGHT="0" HPOS="0" VPOS="0" WIDTH="2480"/>
+<LeftMargin HEIGHT="3188" HPOS="0" VPOS="0" WIDTH="0"/>
+<RightMargin HEIGHT="3188" HPOS="2480" VPOS="0" WIDTH="0"/>
+<BottomMargin HEIGHT="0" HPOS="0" VPOS="3188" WIDTH="2480"/>
+<PrintSpace HEIGHT="3188" HPOS="0" VPOS="0" WIDTH="2480">
+<TextBlock HEIGHT="161" HPOS="2040" ID="r_8_2" VPOS="2981" WIDTH="441">
+<Shape>
+<Polygon POINTS="2040 2981 2481 2981 2481 3142 2040 3142"/>
+</Shape>
+</TextBlock>
+<GraphicalElement HEIGHT="66" HPOS="531" ID="r_9" VPOS="1221" WIDTH="323"/>
+<GraphicalElement HEIGHT="321" HPOS="919" ID="r_10" VPOS="1325" WIDTH="83"/>
+<Illustration HEIGHT="3199" HPOS="0" ID="Image_1585435743667_7665" VPOS="-6" WIDTH="2477"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-01-07T17:14:03.046+01:00</Created>
+        <LastChange>2020-01-07T17:18:03.939+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="304468" pageId="12091462" pageNr="74" tsid="22169141" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=HNVOBNLQAZTOOAHVPKRFVNXU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EKTEOTDFUVWPKTVVFEQIPUET" imageId="8434496"/>
+    </Metadata>
+    <Page imageFilename="1887_bovet_bpt6k6325943w_gt_0074.jpg" imageWidth="3667" imageHeight="4681">
+        <PrintSpace>
+            <Coords points="37,0 3667,0 3667,4681 37,4681"/>
+        </PrintSpace>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="37,0 3667,0 3667,4681 37,4681"/>
+        </GraphicRegion>
+        <SeparatorRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="1392,4594 1600,4594 1600,4597 1392,4597"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="336,4602 682,4602 682,4612 336,4612"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="3524,1004 3528,1004 3528,1125 3524,1125"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="3579,3791 3590,3791 3590,4117 3579,4117"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

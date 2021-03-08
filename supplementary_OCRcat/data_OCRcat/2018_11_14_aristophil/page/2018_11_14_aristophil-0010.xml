@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-01-06T14:36:24.542+01:00</Created>
+        <LastChange>2020-03-28T23:49:07.806+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="304006" pageId="12076769" pageNr="10" tsid="26607544" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=LTSASUNJKXBKOKWOOZJLSNOK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BRQTQRXHAAXOJECXJPBYMIEL" imageId="8420924"/>
+    </Metadata>
+    <Page imageFilename="2018_11_14_aristophil-0010.jpg" imageWidth="2480" imageHeight="3188">
+        <PrintSpace>
+            <Coords points="0,0 2480,0 2480,3188 0,3188"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1604141453425" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_8_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_8_2" custom="readingOrder {index:0;}">
+            <Coords points="2040,2981 2481,2981 2481,3142 2040,3142"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:1;}">
+            <Coords points="531,1221 854,1221 854,1287 531,1287"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="919,1325 1002,1325 1002,1646 919,1646"/>
+        </SeparatorRegion>
+        <ImageRegion id="Image_1585435743667_7665" custom="readingOrder {index:3;}">
+            <Coords points="0,-6 2477,-6 2477,3193 0,3193"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

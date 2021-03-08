@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>2017_06_20_bodin-0004.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-10-31T11:51:41.15+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="3188" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="2480">
+<TopMargin HEIGHT="223" HPOS="0" VPOS="0" WIDTH="2480"/>
+<LeftMargin HEIGHT="2874" HPOS="0" VPOS="223" WIDTH="92"/>
+<RightMargin HEIGHT="2874" HPOS="2259" VPOS="223" WIDTH="221"/>
+<BottomMargin HEIGHT="91" HPOS="0" VPOS="3097" WIDTH="2480"/>
+<PrintSpace HEIGHT="2874" HPOS="92" VPOS="223" WIDTH="2167">
+<TextBlock HEIGHT="39" HPOS="1245" ID="region_1582282960554_1762" VPOS="2944" WIDTH="21">
+<Shape>
+<Polygon POINTS="1245 2944 1246 2983 1266 2983 1265 2944"/>
+</Shape>
+<TextLine BASELINE="1246 2983 1266 2983" HEIGHT="38" HPOS="1246" ID="line_1582282960910_1765" VPOS="2945" WIDTH="20">
+<String CONTENT="9" HEIGHT="38" HPOS="1246" ID="string_line_1582282960910_1765" VPOS="2945" WIDTH="20"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="24" HPOS="1376" ID="r_12_3" VPOS="1517" WIDTH="16">
+<Shape>
+<Polygon POINTS="1376 1517 1392 1517 1392 1541 1376 1541"/>
+</Shape>
+<TextLine BASELINE="1377 1540 1391 1540" HEIGHT="22" HPOS="1377" ID="tl_35" VPOS="1518" WIDTH="14">
+<String CONTENT="4" HEIGHT="22" HPOS="1377" ID="string_tl_35" VPOS="1518" WIDTH="14"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="36" HPOS="527" ID="r_23_1" VPOS="2411" WIDTH="23">
+<Shape>
+<Polygon POINTS="527 2411 550 2411 550 2447 527 2447"/>
+</Shape>
+</TextBlock>
+<TextBlock HEIGHT="31" HPOS="95" ID="r_31_1" VPOS="3068" WIDTH="21">
+<Shape>
+<Polygon POINTS="95 3068 116 3068 116 3099 95 3099"/>
+</Shape>
+<TextLine BASELINE="96 3098 115 3098" HEIGHT="29" HPOS="96" ID="tl_88" VPOS="3069" WIDTH="19">
+<String CONTENT="2" HEIGHT="29" HPOS="96" ID="string_tl_88" VPOS="3069" WIDTH="19"/>
+</TextLine>
+</TextBlock>
+<GraphicalElement HEIGHT="8" HPOS="1734" ID="r_39" VPOS="2649" WIDTH="112"/>
+<Illustration HEIGHT="1371" HPOS="250" ID="Image_1582282921214_1754" VPOS="225" WIDTH="2010"/>
+<Illustration HEIGHT="1289" HPOS="456" ID="Image_1582282940662_1757" VPOS="1629" WIDTH="1611"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

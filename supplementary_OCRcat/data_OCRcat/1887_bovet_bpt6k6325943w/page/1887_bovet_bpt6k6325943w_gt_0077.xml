@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-01-07T17:14:04.551+01:00</Created>
+        <LastChange>2020-01-17T16:22:39.291+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="304468" pageId="12091469" pageNr="77" tsid="22507710" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=EIVUHWFVHGNHEPXYCXNILPKI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GFCHGFSZCGQZKJLMKGZLGGGT" imageId="8434501"/>
+    </Metadata>
+    <Page imageFilename="1887_bovet_bpt6k6325943w_gt_0077.jpg" imageWidth="3753" imageHeight="4647">
+        <PrintSpace>
+            <Coords points="50,28 3651,28 3651,4522 50,4522"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1604249869762" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_15_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="970,673 2389,673 2389,766 970,766"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="971,674 2388,674 2388,765 971,765"/>
+                <Baseline points="971,762 1003,762 1314,745 1427,742 1653,737 1814,731 1898,721 2282,722 2388,720"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="971,732 1003,732 1003,762 971,762"/>
+                    <TextEquiv>
+                        <Unicode>^</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ab5" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1080,710 1314,710 1314,755 1080,755"/>
+                    <TextEquiv>
+                        <Unicode>DEVOIR</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac19" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1348,705 1427,705 1427,744 1348,744"/>
+                    <TextEquiv>
+                        <Unicode>DE</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac25" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="1462,700 1653,700 1653,740 1462,740"/>
+                    <TextEquiv>
+                        <Unicode>LOUIS</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac37" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="1684,697 1814,697 1814,734 1684,734"/>
+                    <TextEquiv>
+                        <Unicode>XVII</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac47" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="1849,712 1898,712 1898,721 1849,721"/>
+                    <TextEquiv>
+                        <Unicode>—</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac51" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1932,685 2282,685 2282,727 1932,727"/>
+                    <TextEquiv>
+                        <Unicode>FRAGMENT</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac69" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="2357,690 2388,690 2388,720 2357,720"/>
+                    <TextEquiv>
+                        <Unicode>-+</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>★ DEVOIR DE LOUIS XVII — FRAGMENT ★</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>★ DEVOIR DE LOUIS XVII — FRAGMENT ★</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="1536,903 1831,903 1831,959 1536,959"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1537,904 1830,904 1830,958 1537,958"/>
+                <Baseline points="1537,953 1710,952 1802,949 1830,949"/>
+                <Word id="w_w2aab1b3b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1537,912 1740,912 1740,954 1537,954"/>
+                    <TextEquiv>
+                        <Unicode>Numéro</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1b1b1" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1780,922 1802,922 1802,949 1780,949"/>
+                    <TextEquiv>
+                        <Unicode>2</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="6.5" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1b2b3" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1811,909 1830,909 1830,949 1811,949"/>
+                    <TextEquiv>
+                        <Unicode>5</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Numéro 25</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Numéro 25</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_15_2" custom="readingOrder {index:2;}">
+            <Coords points="1759,2673 1922,2673 1922,2762 1759,2762"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:3;}">
+            <Coords points="72,28 397,28 397,40 72,40"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:4;}">
+            <Coords points="278,82 671,82 671,97 278,97"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:5;}">
+            <Coords points="1955,41 2869,41 2869,74 1955,74"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:6;}">
+            <Coords points="2869,41 3521,41 3521,64 2869,64"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:7;}">
+            <Coords points="296,408 3184,408 3184,505 296,505"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:8;}">
+            <Coords points="52,2110 135,2110 135,3479 52,3479"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:9;}">
+            <Coords points="119,3907 147,3907 147,4522 119,4522"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:10;}">
+            <Coords points="113,3479 141,3479 141,3908 113,3908"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:11;}">
+            <Coords points="50,318 93,318 93,1350 50,1350"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:12;}">
+            <Coords points="53,112 66,112 66,318 53,318"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_40" custom="readingOrder {index:13;}">
+            <Coords points="494,276 631,276 631,4140 494,4140"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_41" custom="readingOrder {index:14;}">
+            <Coords points="2957,207 3094,207 3094,3846 2957,3846"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_42" custom="readingOrder {index:15;}">
+            <Coords points="3085,3858 3103,3858 3103,4066 3085,4066"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_43" custom="readingOrder {index:16;}">
+            <Coords points="3636,2960 3651,2960 3651,3148 3636,3148"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_44" custom="readingOrder {index:17;}">
+            <Coords points="3603,1292 3651,1292 3651,2960 3603,2960"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_45" custom="readingOrder {index:18;}">
+            <Coords points="3602,798 3606,798 3606,897 3602,897"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_46" custom="readingOrder {index:19;}">
+            <Coords points="3591,350 3594,350 3594,374 3591,374"/>
+        </SeparatorRegion>
+        <ImageRegion id="Image_1579274519744_698" custom="readingOrder {index:20;}">
+            <Coords points="676,1030 2897,1030 2897,3787 676,3787"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

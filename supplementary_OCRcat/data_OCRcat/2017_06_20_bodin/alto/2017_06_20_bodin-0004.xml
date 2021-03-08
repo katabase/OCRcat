@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-10-31T11:51:41.15+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3188" WIDTH="2480">
+         <TopMargin HEIGHT="223" WIDTH="2480" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2874" WIDTH="92" VPOS="223" HPOS="0"/>
+         <RightMargin HEIGHT="2874" WIDTH="221" VPOS="223" HPOS="2259"/>
+         <BottomMargin HEIGHT="91" WIDTH="2480" VPOS="3097" HPOS="0"/>
+         <PrintSpace HEIGHT="2874" WIDTH="2167" VPOS="223" HPOS="92">
+            <TextBlock ID="region_1582282960554_1762"
+                       HEIGHT="39"
+                       WIDTH="21"
+                       VPOS="2944"
+                       HPOS="1245">
+               <Shape>
+                  <Polygon POINTS="1245,2944 1246,2983 1266,2983 1265,2944"/>
+               </Shape>
+               <TextLine ID="line_1582282960910_1765"
+                         BASELINE="2983"
+                         HEIGHT="38"
+                         WIDTH="20"
+                         VPOS="2945"
+                         HPOS="1246">
+                  <String ID="string_line_1582282960910_1765"
+                          HEIGHT="38"
+                          WIDTH="20"
+                          VPOS="2945"
+                          HPOS="1246"
+                          CONTENT="9"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_12_3" HEIGHT="24" WIDTH="16" VPOS="1517" HPOS="1376">
+               <Shape>
+                  <Polygon POINTS="1376,1517 1392,1517 1392,1541 1376,1541"/>
+               </Shape>
+               <TextLine ID="tl_35"
+                         BASELINE="1540"
+                         HEIGHT="22"
+                         WIDTH="14"
+                         VPOS="1518"
+                         HPOS="1377">
+                  <String ID="string_tl_35"
+                          HEIGHT="22"
+                          WIDTH="14"
+                          VPOS="1518"
+                          HPOS="1377"
+                          CONTENT="4"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_23_1" HEIGHT="36" WIDTH="23" VPOS="2411" HPOS="527">
+               <Shape>
+                  <Polygon POINTS="527,2411 550,2411 550,2447 527,2447"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="r_31_1" HEIGHT="31" WIDTH="21" VPOS="3068" HPOS="95">
+               <Shape>
+                  <Polygon POINTS="95,3068 116,3068 116,3099 95,3099"/>
+               </Shape>
+               <TextLine ID="tl_88"
+                         BASELINE="3098"
+                         HEIGHT="29"
+                         WIDTH="19"
+                         VPOS="3069"
+                         HPOS="96">
+                  <String ID="string_tl_88"
+                          HEIGHT="29"
+                          WIDTH="19"
+                          VPOS="3069"
+                          HPOS="96"
+                          CONTENT="2"/>
+               </TextLine>
+            </TextBlock>
+            <GraphicalElement ID="r_39" HEIGHT="8" WIDTH="112" VPOS="2649" HPOS="1734"/>
+            <Illustration ID="Image_1582282921214_1754"
+                          HEIGHT="1371"
+                          WIDTH="2010"
+                          VPOS="225"
+                          HPOS="250"/>
+            <Illustration ID="Image_1582282940662_1757"
+                          HEIGHT="1289"
+                          WIDTH="1611"
+                          VPOS="1629"
+                          HPOS="456"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-01-07T12:56:03.682+01:00</Created>
+        <LastChange>2020-02-21T12:03:08.355+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="304029" pageId="12082575" pageNr="4" tsid="24107673" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=LAIUJVIWZUXODTSNHVEYAODH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LOEGFXXTCBQUHPYXDRCCWNJL" imageId="8426726"/>
+    </Metadata>
+    <Page imageFilename="2017_06_20_bodin-0004.jpg" imageWidth="2480" imageHeight="3188">
+        <PrintSpace>
+            <Coords points="92,223 2259,223 2259,3097 92,3097"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1604141500755" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1582282960554_1762"/>
+                <RegionRefIndexed index="1" regionRef="r_12_3"/>
+                <RegionRefIndexed index="2" regionRef="r_23_1"/>
+                <RegionRefIndexed index="3" regionRef="r_31_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1582282960554_1762" custom="readingOrder {index:0;}">
+            <Coords points="1245,2944 1246,2983 1266,2983 1265,2944"/>
+            <TextLine id="line_1582282960910_1765" custom="readingOrder {index:0;}">
+                <Coords points="1246,2946 1264,2945 1266,2982 1248,2983"/>
+                <Baseline points="1248,2978 1266,2977"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>9</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_12_3" custom="readingOrder {index:1;}">
+            <Coords points="1376,1517 1392,1517 1392,1541 1376,1541"/>
+            <TextLine id="tl_35" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1377,1518 1391,1518 1391,1540 1377,1540"/>
+                <Baseline points="1377,1540 1391,1540"/>
+                <Word id="w_w2aab1c23b2b5b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1377,1518 1391,1518 1391,1540 1377,1540"/>
+                    <TextEquiv>
+                        <Unicode>4</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="6.0" italic="true" superscript="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.0" italic="true" superscript="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_23_1" custom="readingOrder {index:2;}">
+            <Coords points="527,2411 550,2411 550,2447 527,2447"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_31_1" custom="readingOrder {index:3;}">
+            <Coords points="95,3068 116,3068 116,3099 95,3099"/>
+            <TextLine id="tl_88" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="96,3069 115,3069 115,3098 96,3098"/>
+                <Baseline points="96,3098 115,3098"/>
+                <Word id="w_w2aab1c61b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="96,3069 115,3069 115,3098 96,3098"/>
+                    <TextEquiv>
+                        <Unicode>2</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:4;}">
+            <Coords points="1734,2649 1846,2649 1846,2657 1734,2657"/>
+        </SeparatorRegion>
+        <ImageRegion id="Image_1582282921214_1754" custom="readingOrder {index:5;}">
+            <Coords points="250,225 2260,225 2260,1596 250,1596"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1582282940662_1757" custom="readingOrder {index:6;}">
+            <Coords points="456,1629 2065,1629 2067,2918 458,2918"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

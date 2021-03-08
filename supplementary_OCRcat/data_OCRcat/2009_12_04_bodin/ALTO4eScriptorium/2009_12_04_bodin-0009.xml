@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>2009_12_04_bodin-0009.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-10-31T11:52:21.328+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="3188" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="2480">
+<TopMargin HEIGHT="198" HPOS="0" VPOS="0" WIDTH="2480"/>
+<LeftMargin HEIGHT="2914" HPOS="0" VPOS="198" WIDTH="197"/>
+<RightMargin HEIGHT="2914" HPOS="2352" VPOS="198" WIDTH="128"/>
+<BottomMargin HEIGHT="76" HPOS="0" VPOS="3112" WIDTH="2480"/>
+<PrintSpace HEIGHT="2914" HPOS="197" VPOS="198" WIDTH="2155">
+<TextBlock HEIGHT="37" HPOS="655" ID="region_1582280763731_1180" VPOS="2919" WIDTH="35">
+<Shape>
+<Polygon POINTS="655 2919 655 2956 690 2956 690 2919"/>
+</Shape>
+<TextLine BASELINE="655 2956 690 2956" HEIGHT="36" HPOS="655" ID="line_1582280763895_1183" VPOS="2920" WIDTH="35">
+<String CONTENT="43" HEIGHT="36" HPOS="655" ID="string_line_1582280763895_1183" VPOS="2920" WIDTH="35"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="38" HPOS="732" ID="region_1582280811831_1204" VPOS="1308" WIDTH="35">
+<Shape>
+<Polygon POINTS="732 1308 732 1346 767 1346 767 1308"/>
+</Shape>
+<TextLine BASELINE="732 1348 767 1348" HEIGHT="38" HPOS="732" ID="line_1582280812186_1207" VPOS="1310" WIDTH="35">
+<String CONTENT="39" HEIGHT="38" HPOS="732" ID="string_line_1582280812186_1207" VPOS="1310" WIDTH="35"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="33" HPOS="1718" ID="region_1582280738483_1169" VPOS="2741" WIDTH="43">
+<Shape>
+<Polygon POINTS="1718 2741 1720 2774 1761 2774 1759 2741"/>
+</Shape>
+<TextLine BASELINE="1720 2774 1762 2774" HEIGHT="34" HPOS="1720" ID="line_1582280738714_1172" VPOS="2740" WIDTH="42">
+<String CONTENT="44" HEIGHT="34" HPOS="1720" ID="string_line_1582280738714_1172" VPOS="2740" WIDTH="42"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="35" HPOS="1797" ID="region_1582280785553_1192" VPOS="1483" WIDTH="40">
+<Shape>
+<Polygon POINTS="1797 1483 1797 1518 1837 1518 1837 1483"/>
+</Shape>
+<TextLine BASELINE="1797 1518 1837 1518" HEIGHT="36" HPOS="1797" ID="line_1582280785773_1195" VPOS="1482" WIDTH="40">
+<String CONTENT="40" HEIGHT="36" HPOS="1797" ID="string_line_1582280785773_1195" VPOS="1482" WIDTH="40"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="28" HPOS="2327" ID="r_13_1" VPOS="3077" WIDTH="17">
+<Shape>
+<Polygon POINTS="2327 3077 2344 3077 2344 3105 2327 3105"/>
+</Shape>
+<TextLine BASELINE="2328 3104 2343 3104" HEIGHT="26" HPOS="2328" ID="tl_30" VPOS="3078" WIDTH="15">
+<String CONTENT="9" HEIGHT="26" HPOS="2328" ID="string_tl_30" VPOS="3078" WIDTH="15"/>
+</TextLine>
+</TextBlock>
+<GraphicalElement HEIGHT="17" HPOS="1370" ID="r_15" VPOS="2593" WIDTH="191"/>
+<GraphicalElement HEIGHT="402" HPOS="1747" ID="r_16" VPOS="2212" WIDTH="15"/>
+<GraphicalElement HEIGHT="61" HPOS="687" ID="r_19" VPOS="843" WIDTH="12"/>
+<Illustration HEIGHT="863" HPOS="202" ID="Image_1582280612799_1147" VPOS="396" WIDTH="1094"/>
+<Illustration HEIGHT="1212" HPOS="1351" ID="Image_1582280653066_1152" VPOS="226" WIDTH="933"/>
+<Illustration HEIGHT="855" HPOS="1202" ID="Image_1582280672237_1156" VPOS="1835" WIDTH="1082"/>
+<Illustration HEIGHT="1391" HPOS="203" ID="Image_1582280709476_1162" VPOS="1486" WIDTH="947"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

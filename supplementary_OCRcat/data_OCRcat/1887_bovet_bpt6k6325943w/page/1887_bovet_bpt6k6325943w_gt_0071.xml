@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-01-07T17:14:01.416+01:00</Created>
+        <LastChange>2020-01-17T16:06:23.933+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="304468" pageId="12091458" pageNr="71" tsid="22507360" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=AQHZVGZJXLWWNQAUSPABVDCG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XIFOTCIYOFTTHZWOTICRNNUT" imageId="8434492"/>
+    </Metadata>
+    <Page imageFilename="1887_bovet_bpt6k6325943w_gt_0071.jpg" imageWidth="3780" imageHeight="4653">
+        <PrintSpace>
+            <Coords points="44,25 3677,25 3677,4653 44,4653"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1604249867111" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="region_1579273519529_155"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_2" custom="readingOrder {index:0;}">
+            <Coords points="44,4493 332,4493 332,4653 44,4653"/>
+        </GraphicRegion>
+        <TextRegion id="region_1579273519529_155" custom="readingOrder {index:1;}">
+            <Coords points="1052,622 2488,622 2488,721 1052,721"/>
+            <TextLine id="line_1579273526308_159" custom="readingOrder {index:0;}">
+                <Coords points="1061,664 2456,639 2457,692 1062,717"/>
+                <Baseline points="1062,712 2457,687"/>
+                <TextEquiv>
+                    <Unicode>★ LETTRE DE HENRI IV- FRAGMENT ★</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>★ LETTRE DE HENRI IV- FRAGMENT ★</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="2941,3976 2963,3976 2963,4012 2941,4012"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="2942,3977 2962,3977 2962,4011 2942,4011"/>
+                <Baseline points="2942,4011 2962,4011"/>
+                <Word id="w_w2aab1b5b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="2942,3977 2962,3977 2962,4011 2942,4011"/>
+                    <TextEquiv>
+                        <Unicode>5</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="8.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="8.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="114,25 598,25 598,36 114,36"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="696,31 954,31 954,40 696,40"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1381,43 1703,43 1703,50 1381,50"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="269,68 787,68 787,85 269,85"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1769,46 2145,46 2145,55 1769,55"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="920,70 1047,70 1047,74 920,74"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="769,57 2218,57 2218,82 769,82"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="2145,49 2415,49 2415,57 2145,57"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="2218,51 2683,51 2683,65 2218,65"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="2683,48 3471,48 3471,61 2683,61"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="313,414 3203,414 3203,484 313,484"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="437,3847 3286,3847 3286,3908 437,3908"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="92,2434 118,2434 118,2954 92,2954"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="109,2562 119,2562 119,2731 109,2731"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="131,3445 144,3445 144,3909 131,3909"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="77,1023 108,1023 108,1369 77,1369"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="70,389 97,389 97,959 70,959"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="116,2425 135,2425 135,3140 116,3140"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="517,257 607,257 607,4117 517,4117"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="2980,209 3087,209 3087,4079 2980,4079"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="3660,2431 3670,2431 3670,2599 3660,2599"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="3667,2649 3674,2649 3674,2805 3667,2805"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="3664,1908 3677,1908 3677,2071 3664,2071"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="3661,1524 3671,1524 3671,1653 3661,1653"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="1808,56 1946,56 1946,69 1808,69"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="73,213 75,213 75,261 73,261"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:29;}">
+            <Coords points="3631,787 3635,787 3635,811 3631,811"/>
+        </SeparatorRegion>
+        <ImageRegion id="Image_1579273506239_150" custom="readingOrder {index:30;}">
+            <Coords points="550,831 2984,831 2984,3805 550,3805"/>
+        </ImageRegion>
+    </Page>
+</PcGts>
