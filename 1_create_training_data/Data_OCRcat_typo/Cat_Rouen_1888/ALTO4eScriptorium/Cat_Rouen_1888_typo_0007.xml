@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Rouen_1888_typo_0007.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T16:08:15.037+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="3149" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="1998">
+<TopMargin HEIGHT="0" HPOS="0" VPOS="0" WIDTH="1998"/>
+<LeftMargin HEIGHT="3049" HPOS="0" VPOS="0" WIDTH="0"/>
+<RightMargin HEIGHT="3049" HPOS="1798" VPOS="0" WIDTH="200"/>
+<BottomMargin HEIGHT="100" HPOS="0" VPOS="3049" WIDTH="1998"/>
+<PrintSpace HEIGHT="3049" HPOS="0" VPOS="0" WIDTH="1798">
+<TextBlock HEIGHT="33" HPOS="777" ID="r_6_1" VPOS="477" WIDTH="182">
+<Shape>
+<Polygon POINTS="777 477 959 477 959 510 777 510"/>
+</Shape>
+<TextLine BASELINE="778 509 958 509" HEIGHT="31" HPOS="778" ID="tl_2" VPOS="478" WIDTH="180">
+<String CONTENT="DESSINS." HEIGHT="31" HPOS="778" ID="string_tl_2" VPOS="478" WIDTH="180"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="37" HPOS="1404" ID="r_7_1" VPOS="473" WIDTH="65">
+<Shape>
+<Polygon POINTS="1404 473 1469 473 1469 510 1404 510"/>
+</Shape>
+<TextLine BASELINE="1405 509 1468 509" HEIGHT="35" HPOS="1405" ID="tl_3" VPOS="474" WIDTH="63">
+<String CONTENT="105" HEIGHT="35" HPOS="1405" ID="string_tl_3" VPOS="474" WIDTH="63"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="147" HPOS="386" ID="r_8_1" VPOS="562" WIDTH="1080">
+<Shape>
+<Polygon POINTS="386 562 1466 562 1466 709 386 709"/>
+</Shape>
+<TextLine BASELINE="387 637 1465 637" HEIGHT="74" HPOS="387" ID="tl_4" VPOS="563" WIDTH="1078">
+<String CONTENT="WYLD (William), né à Londres; méd. 3e cl., 1839;" HEIGHT="74" HPOS="387" ID="string_tl_4" VPOS="563" WIDTH="1078"/>
+</TextLine>
+<TextLine BASELINE="424 677 1465 677" HEIGHT="71" HPOS="424" ID="tl_5" VPOS="606" WIDTH="1041">
+<String CONTENT="méd. 2e cl., 1841; M. H. et 1855, E. U.; &lt;b&gt;H. C.&lt;/b&gt; —" HEIGHT="71" HPOS="424" ID="string_tl_5" VPOS="606" WIDTH="1041"/>
+</TextLine>
+<TextLine BASELINE="423 708 908 708" HEIGHT="52" HPOS="423" ID="tl_6" VPOS="656" WIDTH="485">
+<String CONTENT="Rue Blanche, 27, Paris." HEIGHT="52" HPOS="423" ID="string_tl_6" VPOS="656" WIDTH="485"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="66" HPOS="257" ID="r_8_2" VPOS="725" WIDTH="836">
+<Shape>
+<Polygon POINTS="257 725 1093 725 1093 791 257 791"/>
+</Shape>
+<TextLine BASELINE="258 790 1092 790" HEIGHT="64" HPOS="258" ID="tl_7" VPOS="726" WIDTH="834">
+<String CONTENT="&lt;b&gt;929&lt;/b&gt;. A Bab-a-Zoun (Alger) (aquarelle)." HEIGHT="64" HPOS="258" ID="string_tl_7" VPOS="726" WIDTH="834"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="79" HPOS="255" ID="r_8_3" VPOS="796" WIDTH="1077">
+<Shape>
+<Polygon POINTS="255 796 1332 796 1332 875 255 875"/>
+</Shape>
+<TextLine BASELINE="256 874 1331 874" HEIGHT="77" HPOS="256" ID="tl_8" VPOS="797" WIDTH="1075">
+<String CONTENT="&lt;b&gt;930&lt;/b&gt; Vue prise au parc de Saint-Cloud (aquarelle)." HEIGHT="77" HPOS="256" ID="string_tl_8" VPOS="797" WIDTH="1075"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="56" HPOS="982" ID="r_8_4" VPOS="889" WIDTH="438">
+<Shape>
+<Polygon POINTS="982 889 1420 889 1420 945 982 945"/>
+</Shape>
+<TextLine BASELINE="983 944 1419 944" HEIGHT="54" HPOS="983" ID="tl_9" VPOS="890" WIDTH="436">
+<String CONTENT="(&lt;i&gt;Voir à la Peinture&lt;/i&gt;.)" HEIGHT="54" HPOS="983" ID="string_tl_9" VPOS="890" WIDTH="436"/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

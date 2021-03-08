@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Courbet_1882-3_typo_0004.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T15:22:22.185+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="2481" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="1749">
+<TopMargin HEIGHT="1161" HPOS="0" VPOS="0" WIDTH="1749"/>
+<LeftMargin HEIGHT="71" HPOS="0" VPOS="1161" WIDTH="701"/>
+<RightMargin HEIGHT="71" HPOS="1043" VPOS="1161" WIDTH="706"/>
+<BottomMargin HEIGHT="1249" HPOS="0" VPOS="1232" WIDTH="1749"/>
+<PrintSpace HEIGHT="71" HPOS="701" VPOS="1161" WIDTH="342">
+<TextBlock HEIGHT="60" HPOS="707" ID="r_1_1" VPOS="1167" WIDTH="331">
+<Shape>
+<Polygon POINTS="707 1167 1038 1167 1038 1227 707 1227"/>
+</Shape>
+<TextLine BASELINE="708 1226 1037 1226" HEIGHT="58" HPOS="708" ID="tl_1" VPOS="1168" WIDTH="329">
+<String CONTENT="DESSINS" HEIGHT="58" HPOS="708" ID="string_tl_1" VPOS="1168" WIDTH="329"/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

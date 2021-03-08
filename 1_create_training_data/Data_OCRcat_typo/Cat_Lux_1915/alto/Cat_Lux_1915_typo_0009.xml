@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-11-01T15:50:59.484+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2743" WIDTH="2083">
+         <TopMargin HEIGHT="329" WIDTH="2083" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2038" WIDTH="241" VPOS="329" HPOS="0"/>
+         <RightMargin HEIGHT="2038" WIDTH="501" VPOS="329" HPOS="1582"/>
+         <BottomMargin HEIGHT="376" WIDTH="2083" VPOS="2367" HPOS="0"/>
+         <PrintSpace HEIGHT="2038" WIDTH="1341" VPOS="329" HPOS="241">
+            <TextBlock ID="r_1_1" HEIGHT="38" WIDTH="255" VPOS="336" HPOS="786">
+               <Shape>
+                  <Polygon POINTS="786,336 1041,336 1041,374 786,374"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="373"
+                         HEIGHT="36"
+                         WIDTH="253"
+                         VPOS="337"
+                         HPOS="787">
+                  <String ID="string_tl_1"
+                          HEIGHT="36"
+                          WIDTH="253"
+                          VPOS="337"
+                          HPOS="787"
+                          CONTENT="18. &lt;b&gt;Marine&lt;/b&gt;."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_1_2" HEIGHT="51" WIDTH="419" VPOS="420" HPOS="702">
+               <Shape>
+                  <Polygon POINTS="702,420 1121,420 1121,471 702,471"/>
+               </Shape>
+               <TextLine ID="tl_2"
+                         BASELINE="470"
+                         HEIGHT="49"
+                         WIDTH="417"
+                         VPOS="421"
+                         HPOS="703">
+                  <String ID="string_tl_2"
+                          HEIGHT="49"
+                          WIDTH="417"
+                          VPOS="421"
+                          HPOS="703"
+                          CONTENT="H. : 0, 51; L. : 0, 76."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_1" HEIGHT="175" WIDTH="1319" VPOS="542" HPOS="256">
+               <Shape>
+                  <Polygon POINTS="256,542 1575,542 1575,717 256,717"/>
+               </Shape>
+               <TextLine ID="tl_3"
+                         BASELINE="602"
+                         HEIGHT="59"
+                         WIDTH="1270"
+                         VPOS="543"
+                         HPOS="303">
+                  <String ID="string_tl_3"
+                          HEIGHT="59"
+                          WIDTH="1270"
+                          VPOS="543"
+                          HPOS="303"
+                          CONTENT="La mer bleue, aux vagues moutonnantes, sous un ciel chargé"/>
+               </TextLine>
+               <TextLine ID="tl_4"
+                         BASELINE="664"
+                         HEIGHT="59"
+                         WIDTH="1317"
+                         VPOS="605"
+                         HPOS="257">
+                  <String ID="string_tl_4"
+                          HEIGHT="59"
+                          WIDTH="1317"
+                          VPOS="605"
+                          HPOS="257"
+                          CONTENT="de gros nuages vivement éclairés. Des bateaux de pêche se"/>
+               </TextLine>
+               <TextLine ID="tl_5"
+                         BASELINE="716"
+                         HEIGHT="45"
+                         WIDTH="841"
+                         VPOS="671"
+                         HPOS="257">
+                  <String ID="string_tl_5"
+                          HEIGHT="45"
+                          WIDTH="841"
+                          VPOS="671"
+                          HPOS="257"
+                          CONTENT="balancent au loin, sur la crête des lames."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_2" HEIGHT="59" WIDTH="951" VPOS="783" HPOS="306">
+               <Shape>
+                  <Polygon POINTS="306,783 1257,783 1257,842 306,842"/>
+               </Shape>
+               <TextLine ID="tl_6"
+                         BASELINE="841"
+                         HEIGHT="57"
+                         WIDTH="949"
+                         VPOS="784"
+                         HPOS="307">
+                  <String ID="string_tl_6"
+                          HEIGHT="57"
+                          WIDTH="949"
+                          VPOS="784"
+                          HPOS="307"
+                          CONTENT="Signé et daté en bas, à droite, &lt;i&gt;H. Moore 1887&lt;/i&gt;."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1591871792443_970"
+                       HEIGHT="70"
+                       WIDTH="225"
+                       VPOS="2255"
+                       HPOS="830">
+               <Shape>
+                  <Polygon POINTS="830,2255 830,2325 1055,2325 1055,2255"/>
+               </Shape>
+               <TextLine ID="line_1591871792485_973"
+                         BASELINE="2325"
+                         HEIGHT="70"
+                         WIDTH="225"
+                         VPOS="2255"
+                         HPOS="830">
+                  <String ID="string_line_1591871792485_973"
+                          HEIGHT="70"
+                          WIDTH="225"
+                          VPOS="2255"
+                          HPOS="830"
+                          CONTENT="— 71 —"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T09:55:31.169+02:00</Created>
+        <LastChange>2020-06-09T12:27:56.804+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="405816" pageId="15785474" pageNr="8" tsid="31033242" status="DONE" userId="54377" imgUrl="https://files.transkribus.eu/Get?id=MFYQYXPDVIKQWSYLWJNOSYAL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMKTIOJFZKLNHWCFINSZRPJB" imageId="11602508"/>
+    </Metadata>
+    <Page imageFilename="Cat_Lux_1915_typo_0008.jpg" imageWidth="2087" imageHeight="2740">
+        <PrintSpace>
+            <Coords points="0,0 2087,0 2087,2740 0,2740"/>
+        </PrintSpace>
+        <GraphicRegion id="r_2" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2087,0 2087,2740 0,2740"/>
+        </GraphicRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:1;}">
+            <Coords points="2043,2304 2063,2304 2063,2624 2043,2624"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

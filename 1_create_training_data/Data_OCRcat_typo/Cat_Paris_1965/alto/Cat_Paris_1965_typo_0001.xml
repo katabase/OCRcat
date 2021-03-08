@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-11-01T14:44:39.172+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2373" WIDTH="1132">
+         <TopMargin HEIGHT="0" WIDTH="1132" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2373" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2373" WIDTH="0" VPOS="0" HPOS="1132"/>
+         <BottomMargin HEIGHT="0" WIDTH="1132" VPOS="2373" HPOS="0"/>
+         <PrintSpace HEIGHT="2373" WIDTH="1132" VPOS="0" HPOS="0">
+            <TextBlock ID="r_1_1" HEIGHT="78" WIDTH="606" VPOS="43" HPOS="467">
+               <Shape>
+                  <Polygon POINTS="467,56 1073,43 1073,108 467,121"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="120"
+                         HEIGHT="77"
+                         WIDTH="601"
+                         VPOS="43"
+                         HPOS="468">
+                  <String ID="string_tl_1"
+                          HEIGHT="77"
+                          WIDTH="601"
+                          VPOS="43"
+                          HPOS="468"
+                          CONTENT="&lt;b&gt;FILMS SUR L'ART&lt;/b&gt;"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1592218069257_41"
+                       HEIGHT="55"
+                       WIDTH="45"
+                       VPOS="2191"
+                       HPOS="1039">
+               <Shape>
+                  <Polygon POINTS="1039,2191 1039,2246 1084,2246 1084,2191"/>
+               </Shape>
+               <TextLine ID="line_1592218069285_44"
+                         BASELINE="2246"
+                         HEIGHT="55"
+                         WIDTH="45"
+                         VPOS="2191"
+                         HPOS="1039">
+                  <String ID="string_line_1592218069285_44"
+                          HEIGHT="55"
+                          WIDTH="45"
+                          VPOS="2191"
+                          HPOS="1039"
+                          CONTENT="173"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

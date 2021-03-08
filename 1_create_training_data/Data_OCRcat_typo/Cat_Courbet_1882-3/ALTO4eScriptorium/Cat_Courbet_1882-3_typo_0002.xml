@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Courbet_1882-3_typo_0002.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T15:22:21.083+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="2481" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="1749">
+<TopMargin HEIGHT="644" HPOS="0" VPOS="0" WIDTH="1749"/>
+<LeftMargin HEIGHT="665" HPOS="0" VPOS="644" WIDTH="412"/>
+<RightMargin HEIGHT="665" HPOS="1324" VPOS="644" WIDTH="425"/>
+<BottomMargin HEIGHT="1172" HPOS="0" VPOS="1309" WIDTH="1749"/>
+<PrintSpace HEIGHT="665" HPOS="412" VPOS="644" WIDTH="912">
+<TextBlock HEIGHT="41" HPOS="413" ID="r_1_1" VPOS="649" WIDTH="901">
+<Shape>
+<Polygon POINTS="413 649 1314 649 1314 690 413 690"/>
+</Shape>
+<TextLine BASELINE="414 689 1313 689" HEIGHT="39" HPOS="414" ID="tl_1" VPOS="650" WIDTH="899">
+<String CONTENT="PANNEAU DE SALLE A MANGER" HEIGHT="39" HPOS="414" ID="string_tl_1" VPOS="650" WIDTH="899"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="37" HPOS="422" ID="r_2_1" VPOS="980" WIDTH="305">
+<Shape>
+<Polygon POINTS="422 980 727 980 727 1017 422 1017"/>
+</Shape>
+<TextLine BASELINE="423 1016 726 1016" HEIGHT="35" HPOS="423" ID="tl_2" VPOS="981" WIDTH="303">
+<String CONTENT="130. — Truite." HEIGHT="35" HPOS="423" ID="string_tl_2" VPOS="981" WIDTH="303"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="71" HPOS="582" ID="r_3_1" VPOS="1071" WIDTH="737">
+<Shape>
+<Polygon POINTS="582 1071 1319 1071 1319 1142 582 1142"/>
+</Shape>
+<TextLine BASELINE="616 1108 1318 1108" HEIGHT="36" HPOS="616" ID="tl_3" VPOS="1072" WIDTH="702">
+<String CONTENT="Signé à gauche : ..71. G. Courbet, &lt;i&gt;In vinculis&lt;/i&gt;" HEIGHT="36" HPOS="616" ID="string_tl_3" VPOS="1072" WIDTH="702"/>
+</TextLine>
+<TextLine BASELINE="583 1141 707 1141" HEIGHT="27" HPOS="583" ID="tl_4" VPOS="1114" WIDTH="124">
+<String CONTENT="&lt;i&gt;faciebat&lt;/i&gt;." HEIGHT="27" HPOS="583" ID="string_tl_4" VPOS="1114" WIDTH="124"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="30" HPOS="887" ID="r_4_1" VPOS="1176" WIDTH="366">
+<Shape>
+<Polygon POINTS="887 1176 1253 1176 1253 1206 887 1206"/>
+</Shape>
+<TextLine BASELINE="888 1205 1252 1205" HEIGHT="28" HPOS="888" ID="tl_5" VPOS="1177" WIDTH="364">
+<String CONTENT="T. — H. 0.52. L. 0.85." HEIGHT="28" HPOS="888" ID="string_tl_5" VPOS="1177" WIDTH="364"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="38" HPOS="609" ID="r_5_1" VPOS="1266" WIDTH="371">
+<Shape>
+<Polygon POINTS="609 1267 980 1266 980 1303 609 1304"/>
+</Shape>
+<TextLine BASELINE="610 1303 981 1303" HEIGHT="35" HPOS="610" ID="tl_6" VPOS="1268" WIDTH="371">
+<String CONTENT="Appartient à M. Pasteur." HEIGHT="35" HPOS="610" ID="string_tl_6" VPOS="1268" WIDTH="371"/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Paris_1965_typo_0001.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T14:44:39.172+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="2373" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="1132">
+<TopMargin HEIGHT="0" HPOS="0" VPOS="0" WIDTH="1132"/>
+<LeftMargin HEIGHT="2373" HPOS="0" VPOS="0" WIDTH="0"/>
+<RightMargin HEIGHT="2373" HPOS="1132" VPOS="0" WIDTH="0"/>
+<BottomMargin HEIGHT="0" HPOS="0" VPOS="2373" WIDTH="1132"/>
+<PrintSpace HEIGHT="2373" HPOS="0" VPOS="0" WIDTH="1132">
+<TextBlock HEIGHT="78" HPOS="467" ID="r_1_1" VPOS="43" WIDTH="606">
+<Shape>
+<Polygon POINTS="467 56 1073 43 1073 108 467 121"/>
+</Shape>
+<TextLine BASELINE="468 120 1069 120" HEIGHT="77" HPOS="468" ID="tl_1" VPOS="43" WIDTH="601">
+<String CONTENT="&lt;b&gt;FILMS SUR L'ART&lt;/b&gt;" HEIGHT="77" HPOS="468" ID="string_tl_1" VPOS="43" WIDTH="601"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="55" HPOS="1039" ID="region_1592218069257_41" VPOS="2191" WIDTH="45">
+<Shape>
+<Polygon POINTS="1039 2191 1039 2246 1084 2246 1084 2191"/>
+</Shape>
+<TextLine BASELINE="1039 2246 1084 2246" HEIGHT="55" HPOS="1039" ID="line_1592218069285_44" VPOS="2191" WIDTH="45">
+<String CONTENT="173" HEIGHT="55" HPOS="1039" ID="string_line_1592218069285_44" VPOS="2191" WIDTH="45"/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

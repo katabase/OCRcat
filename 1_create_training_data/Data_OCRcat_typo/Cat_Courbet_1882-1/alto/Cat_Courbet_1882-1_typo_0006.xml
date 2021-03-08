@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-11-01T15:56:27.475+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2481" WIDTH="1749">
+         <TopMargin HEIGHT="407" WIDTH="1749" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="349" WIDTH="420" VPOS="407" HPOS="0"/>
+         <RightMargin HEIGHT="349" WIDTH="442" VPOS="407" HPOS="1307"/>
+         <BottomMargin HEIGHT="1725" WIDTH="1749" VPOS="756" HPOS="0"/>
+         <PrintSpace HEIGHT="349" WIDTH="887" VPOS="407" HPOS="420">
+            <TextBlock ID="r_1_1" HEIGHT="29" WIDTH="128" VPOS="412" HPOS="788">
+               <Shape>
+                  <Polygon POINTS="788,412 916,412 916,441 788,441"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="440"
+                         HEIGHT="27"
+                         WIDTH="126"
+                         VPOS="413"
+                         HPOS="789">
+                  <String ID="string_tl_1"
+                          HEIGHT="27"
+                          WIDTH="126"
+                          VPOS="413"
+                          HPOS="789"
+                          CONTENT="— 44 —"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_1" HEIGHT="48" WIDTH="752" VPOS="492" HPOS="425">
+               <Shape>
+                  <Polygon POINTS="425,492 1177,492 1177,540 425,540"/>
+               </Shape>
+               <TextLine ID="tl_2"
+                         BASELINE="539"
+                         HEIGHT="46"
+                         WIDTH="750"
+                         VPOS="493"
+                         HPOS="426">
+                  <String ID="string_tl_2"
+                          HEIGHT="46"
+                          WIDTH="750"
+                          VPOS="493"
+                          HPOS="426"
+                          CONTENT="34. — Portrait de Rembrandt, copie."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_2" HEIGHT="39" WIDTH="535" VPOS="577" HPOS="601">
+               <Shape>
+                  <Polygon POINTS="601,577 1136,577 1136,616 601,616"/>
+               </Shape>
+               <TextLine ID="tl_3"
+                         BASELINE="615"
+                         HEIGHT="37"
+                         WIDTH="533"
+                         VPOS="578"
+                         HPOS="602">
+                  <String ID="string_tl_3"
+                          HEIGHT="37"
+                          WIDTH="533"
+                          VPOS="578"
+                          HPOS="602"
+                          CONTENT="Signé à gauche : ..69. G. Courbet."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_3" HEIGHT="70" WIDTH="732" VPOS="617" HPOS="570">
+               <Shape>
+                  <Polygon POINTS="570,617 1302,617 1302,687 570,687"/>
+               </Shape>
+               <TextLine ID="tl_4"
+                         BASELINE="653"
+                         HEIGHT="35"
+                         WIDTH="701"
+                         VPOS="618"
+                         HPOS="600">
+                  <String ID="string_tl_4"
+                          HEIGHT="35"
+                          WIDTH="701"
+                          VPOS="618"
+                          HPOS="600"
+                          CONTENT="On lit, à droite, de la main du peintre : copie,"/>
+               </TextLine>
+               <TextLine ID="tl_5"
+                         BASELINE="686"
+                         HEIGHT="27"
+                         WIDTH="228"
+                         VPOS="659"
+                         HPOS="571">
+                  <String ID="string_tl_5"
+                          HEIGHT="27"
+                          WIDTH="228"
+                          VPOS="659"
+                          HPOS="571"
+                          CONTENT="Musée Munich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_3_1" HEIGHT="37" WIDTH="367" VPOS="714" HPOS="871">
+               <Shape>
+                  <Polygon POINTS="871,714 1238,714 1238,751 871,751"/>
+               </Shape>
+               <TextLine ID="tl_6"
+                         BASELINE="750"
+                         HEIGHT="35"
+                         WIDTH="365"
+                         VPOS="715"
+                         HPOS="872">
+                  <String ID="string_tl_6"
+                          HEIGHT="35"
+                          WIDTH="365"
+                          VPOS="715"
+                          HPOS="872"
+                          CONTENT="T. — H. 0.87. L. 0.73."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

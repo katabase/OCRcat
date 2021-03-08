@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>1866_04_23_GAB_typo_0004.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T16:44:43.552+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="2838" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="1811">
+<TopMargin HEIGHT="42" HPOS="0" VPOS="0" WIDTH="1811"/>
+<LeftMargin HEIGHT="2367" HPOS="0" VPOS="42" WIDTH="105"/>
+<RightMargin HEIGHT="2367" HPOS="1765" VPOS="42" WIDTH="46"/>
+<BottomMargin HEIGHT="429" HPOS="0" VPOS="2409" WIDTH="1811"/>
+<PrintSpace HEIGHT="2367" HPOS="105" VPOS="42" WIDTH="1660">
+<TextBlock HEIGHT="37" HPOS="856" ID="r_1_1" VPOS="894" WIDTH="123">
+<Shape>
+<Polygon POINTS="856 894 979 894 979 931 856 931"/>
+</Shape>
+<TextLine BASELINE="857 930 978 930" HEIGHT="35" HPOS="857" ID="tl_1" VPOS="895" WIDTH="121">
+<String CONTENT="AVIS" HEIGHT="35" HPOS="857" ID="string_tl_1" VPOS="895" WIDTH="121"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="49" HPOS="415" ID="r_1_2" VPOS="1039" WIDTH="950">
+<Shape>
+<Polygon POINTS="415 1039 1365 1039 1365 1088 415 1088"/>
+</Shape>
+<TextLine BASELINE="416 1087 1364 1087" HEIGHT="47" HPOS="416" ID="tl_2" VPOS="1040" WIDTH="948">
+<String CONTENT="Le jour de la veille il y aura exposition de 2 à 4 heures." HEIGHT="47" HPOS="416" ID="string_tl_2" VPOS="1040" WIDTH="948"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="109" HPOS="373" ID="r_1_3" VPOS="1105" WIDTH="1089">
+<Shape>
+<Polygon POINTS="373 1105 1462 1105 1462 1214 373 1214"/>
+</Shape>
+<TextLine BASELINE="416 1152 1461 1152" HEIGHT="46" HPOS="416" ID="tl_3" VPOS="1106" WIDTH="1045">
+<String CONTENT="Ou aura huit jours pour la vérification des pièces; passé ce" HEIGHT="46" HPOS="416" ID="string_tl_3" VPOS="1106" WIDTH="1045"/>
+</TextLine>
+<TextLine BASELINE="374 1213 1089 1213" HEIGHT="41" HPOS="374" ID="tl_4" VPOS="1172" WIDTH="715">
+<String CONTENT="délai, aucune réclamation ne sera admise." HEIGHT="41" HPOS="374" ID="string_tl_4" VPOS="1172" WIDTH="715"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="183" HPOS="371" ID="r_1_4" VPOS="1242" WIDTH="1089">
+<Shape>
+<Polygon POINTS="371 1242 1460 1242 1460 1425 371 1425"/>
+</Shape>
+<TextLine BASELINE="414 1289 1456 1289" HEIGHT="46" HPOS="414" ID="tl_5" VPOS="1243" WIDTH="1042">
+<String CONTENT="On percevra cinq centimes par franc en sus des adjudications." HEIGHT="46" HPOS="414" ID="string_tl_5" VPOS="1243" WIDTH="1042"/>
+</TextLine>
+<TextLine BASELINE="414 1361 1459 1361" HEIGHT="50" HPOS="414" ID="tl_6" VPOS="1311" WIDTH="1045">
+<String CONTENT="M. GABRIEL CHARAVAY, chargé de la vente, remplira les" HEIGHT="50" HPOS="414" ID="string_tl_6" VPOS="1311" WIDTH="1045"/>
+</TextLine>
+<TextLine BASELINE="372 1424 1103 1424" HEIGHT="44" HPOS="372" ID="tl_7" VPOS="1380" WIDTH="731">
+<String CONTENT="commissions qu’on voudra bien lui confier." HEIGHT="44" HPOS="372" ID="string_tl_7" VPOS="1380" WIDTH="731"/>
+</TextLine>
+</TextBlock>
+<GraphicalElement HEIGHT="6" HPOS="808" ID="r_2" VPOS="1768" WIDTH="214"/>
+<GraphicalElement HEIGHT="12" HPOS="311" ID="r_3" VPOS="2757" WIDTH="186"/>
+<GraphicalElement HEIGHT="8" HPOS="1061" ID="r_4" VPOS="2760" WIDTH="501"/>
+<GraphicalElement HEIGHT="9" HPOS="86" ID="r_5" VPOS="2764" WIDTH="174"/>
+<GraphicalElement HEIGHT="371" HPOS="1736" ID="r_6" VPOS="752" WIDTH="6"/>
+<GraphicalElement HEIGHT="94" HPOS="1740" ID="r_7" VPOS="610" WIDTH="5"/>
+<GraphicalElement HEIGHT="155" HPOS="1743" ID="r_8" VPOS="406" WIDTH="3"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

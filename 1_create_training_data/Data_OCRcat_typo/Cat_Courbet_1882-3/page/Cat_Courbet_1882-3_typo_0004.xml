@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T14:56:04.6+02:00</Created>
+        <LastChange>2020-06-10T13:55:42.869+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="405976" pageId="15878785" pageNr="4" tsid="31343912" status="DONE" userId="54377" imgUrl="https://files.transkribus.eu/Get?id=PGKQUTSJTBBQGMNVGAPMMNYX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YOYWKBQAXKKPYDHPETVIWZBM" imageId="11695645"/>
+    </Metadata>
+    <Page imageFilename="Cat_Courbet_1882-3_typo_0004.jpg" imageWidth="1749" imageHeight="2481">
+        <PrintSpace>
+            <Coords points="701,1161 1043,1161 1043,1232 701,1232"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1604240541910" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="707,1167 1038,1167 1038,1227 707,1227"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="708,1168 1037,1168 1037,1226 708,1226"/>
+                <Baseline points="708,1221 1037,1225"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="708,1168 1037,1168 1037,1225 708,1225"/>
+                    <TextEquiv>
+                        <Unicode>DESSINS</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="20.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>DESSINS</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="20.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DESSINS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

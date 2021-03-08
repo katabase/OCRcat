@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Courbet_1882-3_typo_0001.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T15:22:20.402+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="2481" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="1749">
+<TopMargin HEIGHT="430" HPOS="0" VPOS="0" WIDTH="1749"/>
+<LeftMargin HEIGHT="431" HPOS="0" VPOS="430" WIDTH="429"/>
+<RightMargin HEIGHT="431" HPOS="1356" VPOS="430" WIDTH="393"/>
+<BottomMargin HEIGHT="1620" HPOS="0" VPOS="861" WIDTH="1749"/>
+<PrintSpace HEIGHT="431" HPOS="429" VPOS="430" WIDTH="927">
+<TextBlock HEIGHT="28" HPOS="833" ID="r_1_1" VPOS="445" WIDTH="129">
+<Shape>
+<Polygon POINTS="833 445 962 445 962 473 833 473"/>
+</Shape>
+<TextLine BASELINE="834 472 961 472" HEIGHT="26" HPOS="834" ID="tl_1" VPOS="446" WIDTH="127">
+<String CONTENT="— 80 —" HEIGHT="26" HPOS="834" ID="string_tl_1" VPOS="446" WIDTH="127"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="50" HPOS="455" ID="r_2_1" VPOS="529" WIDTH="449">
+<Shape>
+<Polygon POINTS="455 530 904 529 904 578 455 579"/>
+</Shape>
+<TextLine BASELINE="450 577 903 577" HEIGHT="49" HPOS="450" ID="tl_2" VPOS="528" WIDTH="453">
+<String CONTENT="129. — Champignons." HEIGHT="49" HPOS="450" ID="string_tl_2" VPOS="528" WIDTH="453"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="39" HPOS="649" ID="r_2_2" VPOS="614" WIDTH="539">
+<Shape>
+<Polygon POINTS="649 614 1188 614 1188 653 649 653"/>
+</Shape>
+<TextLine BASELINE="650 652 1187 652" HEIGHT="37" HPOS="650" ID="tl_3" VPOS="615" WIDTH="537">
+<String CONTENT="Signé à gauche : ..72. G. Courbet." HEIGHT="37" HPOS="650" ID="string_tl_3" VPOS="615" WIDTH="537"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="75" HPOS="618" ID="r_2_3" VPOS="653" WIDTH="736">
+<Shape>
+<Polygon POINTS="618 653 1354 653 1354 728 618 728"/>
+</Shape>
+<TextLine BASELINE="649 694 1353 694" HEIGHT="40" HPOS="649" ID="tl_4" VPOS="654" WIDTH="704">
+<String CONTENT="A droite, de la main du peintre, on lit la dé¬" HEIGHT="40" HPOS="649" ID="string_tl_4" VPOS="654" WIDTH="704"/>
+</TextLine>
+<TextLine BASELINE="619 727 1054 727" HEIGHT="30" HPOS="619" ID="tl_5" VPOS="697" WIDTH="435">
+<String CONTENT="dicace : « A M. Ordinaire. »" HEIGHT="30" HPOS="619" ID="string_tl_5" VPOS="697" WIDTH="435"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="31" HPOS="937" ID="r_2_4" VPOS="750" WIDTH="354">
+<Shape>
+<Polygon POINTS="937 750 1291 750 1291 781 937 781"/>
+</Shape>
+<TextLine BASELINE="938 780 1290 780" HEIGHT="29" HPOS="938" ID="tl_6" VPOS="751" WIDTH="352">
+<String CONTENT="T. — H. 0.61. L. 0.65." HEIGHT="29" HPOS="938" ID="string_tl_6" VPOS="751" WIDTH="352"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="37" HPOS="648" ID="r_3_1" VPOS="818" WIDTH="426">
+<Shape>
+<Polygon POINTS="648 818 1074 818 1074 855 648 855"/>
+</Shape>
+<TextLine BASELINE="649 854 1073 854" HEIGHT="35" HPOS="649" ID="tl_7" VPOS="819" WIDTH="424">
+<String CONTENT="Appartient au Dr Ordinaire." HEIGHT="35" HPOS="649" ID="string_tl_7" VPOS="819" WIDTH="424"/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

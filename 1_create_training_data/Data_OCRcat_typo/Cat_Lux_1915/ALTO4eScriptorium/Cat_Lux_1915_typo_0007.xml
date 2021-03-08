@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Lux_1915_typo_0007.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T15:50:58.749+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="2734" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="2083">
+<TopMargin HEIGHT="0" HPOS="0" VPOS="0" WIDTH="2083"/>
+<LeftMargin HEIGHT="2734" HPOS="0" VPOS="0" WIDTH="0"/>
+<RightMargin HEIGHT="2734" HPOS="1702" VPOS="0" WIDTH="381"/>
+<BottomMargin HEIGHT="0" HPOS="0" VPOS="2734" WIDTH="2083"/>
+<PrintSpace HEIGHT="2734" HPOS="0" VPOS="0" WIDTH="1702">
+<TextBlock HEIGHT="578" HPOS="1657" ID="r_2_1" VPOS="1061" WIDTH="38">
+<Shape>
+<Polygon POINTS="1657 1061 1695 1061 1695 1639 1657 1639"/>
+</Shape>
+<TextLine BASELINE="1658 1638 1694 1638" HEIGHT="576" HPOS="1658" ID="tl_1" VPOS="1062" WIDTH="36">
+<String CONTENT="HENRY MOORE. — &lt;i&gt;Marine&lt;/i&gt;." HEIGHT="576" HPOS="1658" ID="string_tl_1" VPOS="1062" WIDTH="36"/>
+</TextLine>
+</TextBlock>
+<Illustration HEIGHT="2015" HPOS="257" ID="Image_1591871751447_955" VPOS="312" WIDTH="1343"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

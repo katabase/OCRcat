@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T09:55:30.856+02:00</Created>
+        <LastChange>2020-06-11T12:36:03.178+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="405816" pageId="15785465" pageNr="7" tsid="31420602" status="DONE" userId="54377" imgUrl="https://files.transkribus.eu/Get?id=FTUAYPQPBWEYMUYKTUMBOOYK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BAPCKRJJQXMURYQSMXSLIIFD" imageId="11602499"/>
+    </Metadata>
+    <Page imageFilename="Cat_Lux_1915_typo_0007.jpg" imageWidth="2083" imageHeight="2734">
+        <PrintSpace>
+            <Coords points="0,0 1702,0 1702,2734 0,2734"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1604242258499" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:0;}">
+            <Coords points="1657,1061 1695,1061 1695,1639 1657,1639"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1658,1062 1694,1062 1694,1638 1658,1638"/>
+                <Baseline points="1660,1638 1693,1523 1693,1328 1684,1290 1692,1068"/>
+                <Word id="w_w2aab1b3b2b1b1b1b1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1659,1062 1692,1062 1692,1213 1659,1213"/>
+                    <TextEquiv>
+                        <Unicode>Marine.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1ac27" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1680,1214 1684,1214 1684,1290 1680,1290"/>
+                    <TextEquiv>
+                        <Unicode>—</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1ac13" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1659,1322 1693,1322 1693,1475 1659,1475"/>
+                    <TextEquiv>
+                        <Unicode>Moore.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1ab1" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="1660,1503 1693,1503 1693,1638 1660,1638"/>
+                    <TextEquiv>
+                        <Unicode>Henry</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>HENRY MOORE. — &lt;i&gt;Marine&lt;/i&gt;.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>HENRY MOORE. — &lt;i&gt;Marine&lt;/i&gt;.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <ImageRegion id="Image_1591871751447_955" custom="readingOrder {index:1;}">
+            <Coords points="257,312 1600,312 1600,2327 257,2327"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

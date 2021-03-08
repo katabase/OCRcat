@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Courbet_1882-1_typo_0006.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T15:56:27.475+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="2481" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="1749">
+<TopMargin HEIGHT="407" HPOS="0" VPOS="0" WIDTH="1749"/>
+<LeftMargin HEIGHT="349" HPOS="0" VPOS="407" WIDTH="420"/>
+<RightMargin HEIGHT="349" HPOS="1307" VPOS="407" WIDTH="442"/>
+<BottomMargin HEIGHT="1725" HPOS="0" VPOS="756" WIDTH="1749"/>
+<PrintSpace HEIGHT="349" HPOS="420" VPOS="407" WIDTH="887">
+<TextBlock HEIGHT="29" HPOS="788" ID="r_1_1" VPOS="412" WIDTH="128">
+<Shape>
+<Polygon POINTS="788 412 916 412 916 441 788 441"/>
+</Shape>
+<TextLine BASELINE="789 440 915 440" HEIGHT="27" HPOS="789" ID="tl_1" VPOS="413" WIDTH="126">
+<String CONTENT="— 44 —" HEIGHT="27" HPOS="789" ID="string_tl_1" VPOS="413" WIDTH="126"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="48" HPOS="425" ID="r_2_1" VPOS="492" WIDTH="752">
+<Shape>
+<Polygon POINTS="425 492 1177 492 1177 540 425 540"/>
+</Shape>
+<TextLine BASELINE="426 539 1176 539" HEIGHT="46" HPOS="426" ID="tl_2" VPOS="493" WIDTH="750">
+<String CONTENT="34. — Portrait de Rembrandt, copie." HEIGHT="46" HPOS="426" ID="string_tl_2" VPOS="493" WIDTH="750"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="39" HPOS="601" ID="r_2_2" VPOS="577" WIDTH="535">
+<Shape>
+<Polygon POINTS="601 577 1136 577 1136 616 601 616"/>
+</Shape>
+<TextLine BASELINE="602 615 1135 615" HEIGHT="37" HPOS="602" ID="tl_3" VPOS="578" WIDTH="533">
+<String CONTENT="Signé à gauche : ..69. G. Courbet." HEIGHT="37" HPOS="602" ID="string_tl_3" VPOS="578" WIDTH="533"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="70" HPOS="570" ID="r_2_3" VPOS="617" WIDTH="732">
+<Shape>
+<Polygon POINTS="570 617 1302 617 1302 687 570 687"/>
+</Shape>
+<TextLine BASELINE="600 653 1301 653" HEIGHT="35" HPOS="600" ID="tl_4" VPOS="618" WIDTH="701">
+<String CONTENT="On lit, à droite, de la main du peintre : copie," HEIGHT="35" HPOS="600" ID="string_tl_4" VPOS="618" WIDTH="701"/>
+</TextLine>
+<TextLine BASELINE="571 686 799 686" HEIGHT="27" HPOS="571" ID="tl_5" VPOS="659" WIDTH="228">
+<String CONTENT="Musée Munich." HEIGHT="27" HPOS="571" ID="string_tl_5" VPOS="659" WIDTH="228"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="37" HPOS="871" ID="r_3_1" VPOS="714" WIDTH="367">
+<Shape>
+<Polygon POINTS="871 714 1238 714 1238 751 871 751"/>
+</Shape>
+<TextLine BASELINE="872 750 1237 750" HEIGHT="35" HPOS="872" ID="tl_6" VPOS="715" WIDTH="365">
+<String CONTENT="T. — H. 0.87. L. 0.73." HEIGHT="35" HPOS="872" ID="string_tl_6" VPOS="715" WIDTH="365"/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

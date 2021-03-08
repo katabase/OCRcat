@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-15T12:43:54.534+02:00</Created>
+        <LastChange>2020-06-15T12:48:09.761+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="410632" pageId="16255660" pageNr="1" tsid="31706693" status="DONE" userId="54377" imgUrl="https://files.transkribus.eu/Get?id=PLLFWYEDZDGRMACHURCCPPTY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BWKDAMZHZNFMEVLSMXRWTIEC" imageId="12052847"/>
+    </Metadata>
+    <Page imageFilename="Cat_Paris_1965_typo_0001.jpg" imageWidth="1132" imageHeight="2373">
+        <PrintSpace>
+            <Coords points="0,0 1132,0 1132,2373 0,2373"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1604238277549" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1592218069257_41"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="467,56 1073,43 1073,108 467,121"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="468,57 1069,43 1069,106 468,120"/>
+                <Baseline points="468,120 488,120 816,96 869,92 1042,83"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="468,67 649,67 649,120 468,120"/>
+                    <TextEquiv>
+                        <Unicode>films</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="16.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1b1b1" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="695,61 816,61 816,103 695,103"/>
+                    <TextEquiv>
+                        <Unicode>sur</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="17.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1b1b9" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="861,57 869,57 869,92 861,92"/>
+                    <TextEquiv>
+                        <Unicode>i</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="17.0" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>&lt;b&gt;FILMS SUR L'ART&lt;/b&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&lt;b&gt;FILMS SUR L'ART&lt;/b&gt;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592218069257_41" custom="readingOrder {index:1;}">
+            <Coords points="1039,2191 1039,2246 1084,2246 1084,2191"/>
+            <TextLine id="line_1592218069285_44" custom="readingOrder {index:0;}">
+                <Coords points="1039,2196 1077,2191 1084,2241 1046,2246"/>
+                <Baseline points="1045,2241 1083,2236"/>
+                <TextEquiv>
+                    <Unicode>173</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>173</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

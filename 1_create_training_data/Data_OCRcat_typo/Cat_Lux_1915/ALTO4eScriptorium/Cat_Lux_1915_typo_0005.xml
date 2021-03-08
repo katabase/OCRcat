@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Lux_1915_typo_0005.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T15:50:57.881+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="2743" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="2077">
+<TopMargin HEIGHT="63" HPOS="0" VPOS="0" WIDTH="2077"/>
+<LeftMargin HEIGHT="2613" HPOS="0" VPOS="63" WIDTH="48"/>
+<RightMargin HEIGHT="2613" HPOS="1541" VPOS="63" WIDTH="536"/>
+<BottomMargin HEIGHT="67" HPOS="0" VPOS="2676" WIDTH="2077"/>
+<PrintSpace HEIGHT="2613" HPOS="48" VPOS="63" WIDTH="1493">
+<TextBlock HEIGHT="293" HPOS="210" ID="r_1_1" VPOS="319" WIDTH="1324">
+<Shape>
+<Polygon POINTS="210 319 1534 319 1534 612 210 612"/>
+</Shape>
+<TextLine BASELINE="215 368 1533 368" HEIGHT="48" HPOS="215" ID="tl_1" VPOS="320" WIDTH="1318">
+<String CONTENT="assise de profil à droite, à mi-jambes, dans un large fauteuil de" HEIGHT="48" HPOS="215" ID="string_tl_1" VPOS="320" WIDTH="1318"/>
+</TextLine>
+<TextLine BASELINE="212 418 1531 418" HEIGHT="37" HPOS="212" ID="tl_2" VPOS="381" WIDTH="1319">
+<String CONTENT="velours vert dont le dossier est recouvert d'un tissu d’Orient." HEIGHT="37" HPOS="212" ID="string_tl_2" VPOS="381" WIDTH="1319"/>
+</TextLine>
+<TextLine BASELINE="214 490 1532 490" HEIGHT="48" HPOS="214" ID="tl_3" VPOS="442" WIDTH="1318">
+<String CONTENT="Elle est vêtue de noir, les mains jointes sur ses genoux. A sa" HEIGHT="48" HPOS="214" ID="string_tl_3" VPOS="442" WIDTH="1318"/>
+</TextLine>
+<TextLine BASELINE="211 551 1532 551" HEIGHT="48" HPOS="211" ID="tl_4" VPOS="503" WIDTH="1321">
+<String CONTENT="droite, contre le fond pourpre d’un rideau, une perruche grise" HEIGHT="48" HPOS="211" ID="string_tl_4" VPOS="503" WIDTH="1321"/>
+</TextLine>
+<TextLine BASELINE="212 611 699 611" HEIGHT="47" HPOS="212" ID="tl_5" VPOS="564" WIDTH="487">
+<String CONTENT="sur le haut d’une cage." HEIGHT="47" HPOS="212" ID="string_tl_5" VPOS="564" WIDTH="487"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="109" HPOS="215" ID="r_1_2" VPOS="624" WIDTH="1312">
+<Shape>
+<Polygon POINTS="215 624 1527 624 1527 733 215 733"/>
+</Shape>
+<TextLine BASELINE="259 672 1526 672" HEIGHT="47" HPOS="259" ID="tl_6" VPOS="625" WIDTH="1267">
+<String CONTENT="Signé et daté en bas, à gauche, du monogramme de l’artiste." HEIGHT="47" HPOS="259" ID="string_tl_6" VPOS="625" WIDTH="1267"/>
+</TextLine>
+<TextLine BASELINE="216 732 318 732" HEIGHT="44" HPOS="216" ID="tl_7" VPOS="688" WIDTH="102">
+<String CONTENT="1872." HEIGHT="44" HPOS="216" ID="string_tl_7" VPOS="688" WIDTH="102"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="111" HPOS="212" ID="r_1_3" VPOS="746" WIDTH="1322">
+<Shape>
+<Polygon POINTS="212 746 1534 746 1534 857 212 857"/>
+</Shape>
+<TextLine BASELINE="262 794 1533 794" HEIGHT="47" HPOS="262" ID="tl_8" VPOS="747" WIDTH="1271">
+<String CONTENT="Exposé, en 1914, à la Société Internationale (Grosvenor" HEIGHT="47" HPOS="262" ID="string_tl_8" VPOS="747" WIDTH="1271"/>
+</TextLine>
+<TextLine BASELINE="213 856 393 856" HEIGHT="48" HPOS="213" ID="tl_9" VPOS="808" WIDTH="180">
+<String CONTENT="Gallery)." HEIGHT="48" HPOS="213" ID="string_tl_9" VPOS="808" WIDTH="180"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="68" HPOS="759" ID="region_1591871617972_894" VPOS="2275" WIDTH="207">
+<Shape>
+<Polygon POINTS="759 2275 759 2343 966 2343 966 2275"/>
+</Shape>
+<TextLine BASELINE="759 2343 966 2343" HEIGHT="68" HPOS="759" ID="line_1591871618047_897" VPOS="2275" WIDTH="207">
+<String CONTENT="— 67 —" HEIGHT="68" HPOS="759" ID="string_line_1591871618047_897" VPOS="2275" WIDTH="207"/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

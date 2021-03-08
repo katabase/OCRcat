@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Lux_1915_typo_0003.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T15:50:57.049+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="2746" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="2107">
+<TopMargin HEIGHT="0" HPOS="0" VPOS="0" WIDTH="2107"/>
+<LeftMargin HEIGHT="2495" HPOS="0" VPOS="0" WIDTH="0"/>
+<RightMargin HEIGHT="2495" HPOS="2020" VPOS="0" WIDTH="87"/>
+<BottomMargin HEIGHT="251" HPOS="0" VPOS="2495" WIDTH="2107"/>
+<PrintSpace HEIGHT="2495" HPOS="0" VPOS="0" WIDTH="2020">
+<TextBlock HEIGHT="53" HPOS="446" ID="r_3_1" VPOS="2319" WIDTH="954">
+<Shape>
+<Polygon POINTS="446 2319 1400 2319 1400 2372 446 2372"/>
+</Shape>
+<TextLine BASELINE="447 2371 1399 2371" HEIGHT="51" HPOS="447" ID="tl_1" VPOS="2320" WIDTH="952">
+<String CONTENT="SIR JOHN EVERETT MILLAIS. — &lt;i&gt;Mrs. Heugh&lt;/i&gt;." HEIGHT="51" HPOS="447" ID="string_tl_1" VPOS="2320" WIDTH="952"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="35" HPOS="1621" ID="r_4_1" VPOS="2453" WIDTH="14">
+<Shape>
+<Polygon POINTS="1621 2453 1635 2453 1635 2488 1621 2488"/>
+</Shape>
+<TextLine BASELINE="1622 2487 1634 2487" HEIGHT="33" HPOS="1622" ID="tl_2" VPOS="2454" WIDTH="12">
+<String CONTENT="5" HEIGHT="33" HPOS="1622" ID="string_tl_2" VPOS="2454" WIDTH="12"/>
+</TextLine>
+</TextBlock>
+<Illustration HEIGHT="1841" HPOS="139" ID="Image_1591871522902_822" VPOS="427" WIDTH="1550"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-11-01T15:22:20.402+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2481" WIDTH="1749">
+         <TopMargin HEIGHT="430" WIDTH="1749" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="431" WIDTH="429" VPOS="430" HPOS="0"/>
+         <RightMargin HEIGHT="431" WIDTH="393" VPOS="430" HPOS="1356"/>
+         <BottomMargin HEIGHT="1620" WIDTH="1749" VPOS="861" HPOS="0"/>
+         <PrintSpace HEIGHT="431" WIDTH="927" VPOS="430" HPOS="429">
+            <TextBlock ID="r_1_1" HEIGHT="28" WIDTH="129" VPOS="445" HPOS="833">
+               <Shape>
+                  <Polygon POINTS="833,445 962,445 962,473 833,473"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="472"
+                         HEIGHT="26"
+                         WIDTH="127"
+                         VPOS="446"
+                         HPOS="834">
+                  <String ID="string_tl_1"
+                          HEIGHT="26"
+                          WIDTH="127"
+                          VPOS="446"
+                          HPOS="834"
+                          CONTENT="— 80 —"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_1" HEIGHT="50" WIDTH="449" VPOS="529" HPOS="455">
+               <Shape>
+                  <Polygon POINTS="455,530 904,529 904,578 455,579"/>
+               </Shape>
+               <TextLine ID="tl_2"
+                         BASELINE="577"
+                         HEIGHT="49"
+                         WIDTH="453"
+                         VPOS="528"
+                         HPOS="450">
+                  <String ID="string_tl_2"
+                          HEIGHT="49"
+                          WIDTH="453"
+                          VPOS="528"
+                          HPOS="450"
+                          CONTENT="129. — Champignons."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_2" HEIGHT="39" WIDTH="539" VPOS="614" HPOS="649">
+               <Shape>
+                  <Polygon POINTS="649,614 1188,614 1188,653 649,653"/>
+               </Shape>
+               <TextLine ID="tl_3"
+                         BASELINE="652"
+                         HEIGHT="37"
+                         WIDTH="537"
+                         VPOS="615"
+                         HPOS="650">
+                  <String ID="string_tl_3"
+                          HEIGHT="37"
+                          WIDTH="537"
+                          VPOS="615"
+                          HPOS="650"
+                          CONTENT="Signé à gauche : ..72. G. Courbet."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_3" HEIGHT="75" WIDTH="736" VPOS="653" HPOS="618">
+               <Shape>
+                  <Polygon POINTS="618,653 1354,653 1354,728 618,728"/>
+               </Shape>
+               <TextLine ID="tl_4"
+                         BASELINE="694"
+                         HEIGHT="40"
+                         WIDTH="704"
+                         VPOS="654"
+                         HPOS="649">
+                  <String ID="string_tl_4"
+                          HEIGHT="40"
+                          WIDTH="704"
+                          VPOS="654"
+                          HPOS="649"
+                          CONTENT="A droite, de la main du peintre, on lit la dé¬"/>
+               </TextLine>
+               <TextLine ID="tl_5"
+                         BASELINE="727"
+                         HEIGHT="30"
+                         WIDTH="435"
+                         VPOS="697"
+                         HPOS="619">
+                  <String ID="string_tl_5"
+                          HEIGHT="30"
+                          WIDTH="435"
+                          VPOS="697"
+                          HPOS="619"
+                          CONTENT="dicace : « A M. Ordinaire. »"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_2_4" HEIGHT="31" WIDTH="354" VPOS="750" HPOS="937">
+               <Shape>
+                  <Polygon POINTS="937,750 1291,750 1291,781 937,781"/>
+               </Shape>
+               <TextLine ID="tl_6"
+                         BASELINE="780"
+                         HEIGHT="29"
+                         WIDTH="352"
+                         VPOS="751"
+                         HPOS="938">
+                  <String ID="string_tl_6"
+                          HEIGHT="29"
+                          WIDTH="352"
+                          VPOS="751"
+                          HPOS="938"
+                          CONTENT="T. — H. 0.61. L. 0.65."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_3_1" HEIGHT="37" WIDTH="426" VPOS="818" HPOS="648">
+               <Shape>
+                  <Polygon POINTS="648,818 1074,818 1074,855 648,855"/>
+               </Shape>
+               <TextLine ID="tl_7"
+                         BASELINE="854"
+                         HEIGHT="35"
+                         WIDTH="424"
+                         VPOS="819"
+                         HPOS="649">
+                  <String ID="string_tl_7"
+                          HEIGHT="35"
+                          WIDTH="424"
+                          VPOS="819"
+                          HPOS="649"
+                          CONTENT="Appartient au Dr Ordinaire."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

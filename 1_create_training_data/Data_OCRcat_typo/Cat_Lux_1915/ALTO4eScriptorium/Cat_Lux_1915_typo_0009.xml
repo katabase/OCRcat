@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit><sourceImageInformation><fileName>Cat_Lux_1915_typo_0009.jpg</fileName></sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-11-01T15:50:59.484+01:00</processingDateTime>
+<processingSoftware>
+<softwareCreator>READ COOP</softwareCreator>
+<softwareName>Transkribus</softwareName>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Layout>
+<Page HEIGHT="2743" ID="Page1" PHYSICAL_IMG_NR="1" WIDTH="2083">
+<TopMargin HEIGHT="329" HPOS="0" VPOS="0" WIDTH="2083"/>
+<LeftMargin HEIGHT="2038" HPOS="0" VPOS="329" WIDTH="241"/>
+<RightMargin HEIGHT="2038" HPOS="1582" VPOS="329" WIDTH="501"/>
+<BottomMargin HEIGHT="376" HPOS="0" VPOS="2367" WIDTH="2083"/>
+<PrintSpace HEIGHT="2038" HPOS="241" VPOS="329" WIDTH="1341">
+<TextBlock HEIGHT="38" HPOS="786" ID="r_1_1" VPOS="336" WIDTH="255">
+<Shape>
+<Polygon POINTS="786 336 1041 336 1041 374 786 374"/>
+</Shape>
+<TextLine BASELINE="787 373 1040 373" HEIGHT="36" HPOS="787" ID="tl_1" VPOS="337" WIDTH="253">
+<String CONTENT="18. &lt;b&gt;Marine&lt;/b&gt;." HEIGHT="36" HPOS="787" ID="string_tl_1" VPOS="337" WIDTH="253"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="51" HPOS="702" ID="r_1_2" VPOS="420" WIDTH="419">
+<Shape>
+<Polygon POINTS="702 420 1121 420 1121 471 702 471"/>
+</Shape>
+<TextLine BASELINE="703 470 1120 470" HEIGHT="49" HPOS="703" ID="tl_2" VPOS="421" WIDTH="417">
+<String CONTENT="H. : 0, 51; L. : 0, 76." HEIGHT="49" HPOS="703" ID="string_tl_2" VPOS="421" WIDTH="417"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="175" HPOS="256" ID="r_2_1" VPOS="542" WIDTH="1319">
+<Shape>
+<Polygon POINTS="256 542 1575 542 1575 717 256 717"/>
+</Shape>
+<TextLine BASELINE="303 602 1573 602" HEIGHT="59" HPOS="303" ID="tl_3" VPOS="543" WIDTH="1270">
+<String CONTENT="La mer bleue, aux vagues moutonnantes, sous un ciel chargé" HEIGHT="59" HPOS="303" ID="string_tl_3" VPOS="543" WIDTH="1270"/>
+</TextLine>
+<TextLine BASELINE="257 664 1574 664" HEIGHT="59" HPOS="257" ID="tl_4" VPOS="605" WIDTH="1317">
+<String CONTENT="de gros nuages vivement éclairés. Des bateaux de pêche se" HEIGHT="59" HPOS="257" ID="string_tl_4" VPOS="605" WIDTH="1317"/>
+</TextLine>
+<TextLine BASELINE="257 716 1098 716" HEIGHT="45" HPOS="257" ID="tl_5" VPOS="671" WIDTH="841">
+<String CONTENT="balancent au loin, sur la crête des lames." HEIGHT="45" HPOS="257" ID="string_tl_5" VPOS="671" WIDTH="841"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="59" HPOS="306" ID="r_2_2" VPOS="783" WIDTH="951">
+<Shape>
+<Polygon POINTS="306 783 1257 783 1257 842 306 842"/>
+</Shape>
+<TextLine BASELINE="307 841 1256 841" HEIGHT="57" HPOS="307" ID="tl_6" VPOS="784" WIDTH="949">
+<String CONTENT="Signé et daté en bas, à droite, &lt;i&gt;H. Moore 1887&lt;/i&gt;." HEIGHT="57" HPOS="307" ID="string_tl_6" VPOS="784" WIDTH="949"/>
+</TextLine>
+</TextBlock>
+<TextBlock HEIGHT="70" HPOS="830" ID="region_1591871792443_970" VPOS="2255" WIDTH="225">
+<Shape>
+<Polygon POINTS="830 2255 830 2325 1055 2325 1055 2255"/>
+</Shape>
+<TextLine BASELINE="830 2325 1055 2325" HEIGHT="70" HPOS="830" ID="line_1591871792485_973" VPOS="2255" WIDTH="225">
+<String CONTENT="— 71 —" HEIGHT="70" HPOS="830" ID="string_line_1591871792485_973" VPOS="2255" WIDTH="225"/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
